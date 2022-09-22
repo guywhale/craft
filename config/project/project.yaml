@@ -1,0 +1,22 @@
+dateModified: 1663888594
+email:
+  fromEmail: guywhale@gmail.com
+  fromName: 'Craft - Lando'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    33e74b2f-c145-409e-b271-eb44038682a2: 'Craft - Lando'
+    070f7f10-944f-4236-bd0b-db4c26719159: Common
+    c1bfdfda-495d-44e1-92c6-1c647ef246c3: 'Craft - Lando'
+system:
+  edition: solo
+  live: true
+  name: 'Craft - Lando'
+  schemaVersion: 4.0.0.9
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

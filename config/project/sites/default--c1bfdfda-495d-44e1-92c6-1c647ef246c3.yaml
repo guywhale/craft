@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-GB
+name: 'Craft - Lando'
+primary: true
+siteGroup: 33e74b2f-c145-409e-b271-eb44038682a2
+sortOrder: 1
