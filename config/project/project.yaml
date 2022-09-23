@@ -1,19 +1,21 @@
-dateModified: 1663888594
+dateModified: 1663892661
 email:
   fromEmail: guywhale@gmail.com
   fromName: 'Craft - Lando'
   transportType: craft\mail\transportadapters\Sendmail
 meta:
   __names__:
-    33e74b2f-c145-409e-b271-eb44038682a2: 'Craft - Lando'
-    070f7f10-944f-4236-bd0b-db4c26719159: Common
-    c1bfdfda-495d-44e1-92c6-1c647ef246c3: 'Craft - Lando'
+    33e74b2f-c145-409e-b271-eb44038682a2: 'Craft - Lando' # Craft - Lando
+    070f7f10-944f-4236-bd0b-db4c26719159: Common # Common
+    b4865146-2ef4-4676-8b32-0829e7f2b6a5: 'Public Schema' # Public Schema
+    c1bfdfda-495d-44e1-92c6-1c647ef246c3: 'Craft - Lando' # Craft - Lando
 system:
-  edition: solo
+  edition: pro
   live: true
   name: 'Craft - Lando'
+  retryDuration: null
   schemaVersion: 4.0.0.9
-  timeZone: America/Los_Angeles
+  timeZone: Europe/London
 users:
   allowPublicRegistration: false
   defaultGroup: null
